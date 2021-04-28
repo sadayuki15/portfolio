@@ -433,6 +433,11 @@ button {
   }
 
   /*-------- work -------*/
+  #board {
+    padding: 0 10vw;
+  }
+
+  /*-------- work -------*/
   .work-list {
     display: block;
     padding: 0 4vw;
